@@ -2,7 +2,7 @@
 /*
  * Plugin Name: WebPlus LiqPay WooCommerce
  * Description: Плагин LiqPay для использования оплаты в woocommerce
- * Version: 3.2
+ * Version: 3.3
  * Author: Павел Борисенко
  */
 

@@ -4,19 +4,22 @@ Plugin Name: WebPlus LiqPay for WooCommerce
 Tags: woocommerce LiqPay, LiqPay, woocommerce, privat24, payment, gateway, privatbank, pb, WebPlus
 Requires at least: 1.0 or higher
 Tested up to: 6.7
-Stable tag: 3.2
+Stable tag: 3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Плагин LiqPay для WooCommerce
 
 == Description ==
 
 Добавления способа оплаты [LiqPay](https://www.liqpay.ua/api/referral/i13901439870) - v.3 для WooCommerce.
 В этой версии плагина покупатели смогут только оплачивать товары из корзины вашего интернет магазина выбрав способ оплаты LiqPay. 
 
+Для заказа версии с каллбэком (это смена статуса в заказах после успешной оплаты), каллбэк вызывает liqpay и передает статус или заказа версии с РРО (ПРРО) - отправкой фискальных чеков в налоговую - пишите на эмейл: pavel.borysenko@gmail.com 
+
 == Оценить плагин ==
 
 Прошу, после установки плагина, оценить плагин - оставить отзыв и поставить 5 звездочек!
-
 
 == Еще мои плагины ==
 Рекоммендуем вам еще один мой плагин [webplus-gallery](https://wordpress.org/plugins/webplus-gallery/) - это галерея слайдер. Очень красивая и удобная.
